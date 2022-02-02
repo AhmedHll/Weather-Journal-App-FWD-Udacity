@@ -21,7 +21,7 @@ This is a solution to the Second-Project task on FWD-UDACITY](https://egfwd.com/
 Create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
 ### Screenshot
 
-![](Media/screenshot.png)
+![](Media/Screenshot.png)
 
 ### Links
 
