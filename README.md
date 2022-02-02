@@ -25,7 +25,7 @@ Create an asynchronous web app that uses Web API and user data to dynamically up
 
 ### Links
 
-- Live Site URL: [FWD-First-Project-Landing-Page](https://ahmedhll.github.io/FWD-First-Project-Landing-Page/)
+- Live Site URL: [FWD-First-Project-Landing-Page](https://ahmedhll.github.io/Weather-Journal-App-FWD-Udacity/)
 
 ## My process
 
