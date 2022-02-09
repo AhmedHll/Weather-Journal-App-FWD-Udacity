@@ -21,11 +21,11 @@ This is a solution to the Second-Project task on FWD-UDACITY](https://egfwd.com/
 Create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
 ### Screenshot
 
-![](Media/screenshot.png)
+![](Media/Screenshot.png)
 
 ### Links
 
-- Live Site URL: [FWD-First-Project-Landing-Page](https://ahmedhll.github.io/FWD-First-Project-Landing-Page/)
+- Live Site URL: [Weather-Journal-App](https://ahmedhll.github.io/Weather-Journal-App-FWD-Udacity/)
 
 ## My process
 
